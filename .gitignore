@@ -1,0 +1,21 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Coffee Machine/task/out/test/classes/
+/Problems/Complex numbers/out/
+/Problems/Complex numbers/out/production/classes/
+/Problems/Days of week/out/
+/Problems/Days of week/out/production/classes/
+/Problems/In a box/out/
+/Problems/In a box/out/production/classes/
+/Problems/Initializing an array of characters/out/
+/Problems/Initializing an array of characters/out/production/classes/
+/Problems/Initializing an array of integers/out/
+/Problems/Initializing an array of integers/out/production/classes/
+/Problems/Simulating a clock/out/
+/Problems/Simulating a clock/out/production/classes/
+/Problems/The minimum value of an array/out/
+/Problems/The minimum value of an array/out/production/classes/
+/Problems/Triples/out/
+/Problems/Triples/out/production/classes/
